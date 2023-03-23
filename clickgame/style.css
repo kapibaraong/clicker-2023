@@ -1,0 +1,11 @@
+.canvas{
+    background-color:blueviolet;
+    width: 500px;
+    height: 500px;
+}
+
+.score{
+    background-color:aliceblue;
+    width: 100px;
+    height: 50px;
+}
